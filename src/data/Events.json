@@ -1,0 +1,32 @@
+{
+  "events": [
+    {
+      "nodejs": {
+        "title": "Node JS Event!",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum in ab quas, voluptas hic dicta error consectetur quibusdam provident rerum minima non nam. Officiis temporibus sapiente assumenda dolorum ex iusto quisquam tempore autem animi voluptatibus, aspernatur dicta? Laudantium itaque voluptatibus, doloremque nemo repellendus similique molestiae ullam sint error id totam placeat, alias quisquam reiciendis accusantium aliquam at ut? Officia doloribus repellendus repudiandae itaque accusamus exercitationem reprehenderit, ipsa illo facere inventore!",
+        "image": "/images/nodejs.png"
+      }
+    },
+    {
+      "expressjs": {
+        "title": "Express JS Event!",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum in ab quas, voluptas hic dicta error consectetur quibusdam provident rerum minima non nam. Officiis temporibus sapiente assumenda dolorum ex iusto quisquam tempore autem animi voluptatibus, aspernatur dicta? Laudantium itaque voluptatibus, doloremque nemo repellendus similique molestiae ullam sint error id totam placeat, alias quisquam reiciendis accusantium aliquam at ut? Officia doloribus repellendus repudiandae itaque accusamus exercitationem reprehenderit, ipsa illo facere inventore!",
+        "image": "/images/expressjs.png"
+      }
+    },
+    {
+      "reactjs": {
+        "title": "React JS Event!",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum in ab quas, voluptas hic dicta error consectetur quibusdam provident rerum minima non nam. Officiis temporibus sapiente assumenda dolorum ex iusto quisquam tempore autem animi voluptatibus, aspernatur dicta? Laudantium itaque voluptatibus, doloremque nemo repellendus similique molestiae ullam sint error id totam placeat, alias quisquam reiciendis accusantium aliquam at ut? Officia doloribus repellendus repudiandae itaque accusamus exercitationem reprehenderit, ipsa illo facere inventore!",
+        "image": "/images/reactjs.jpg"
+      }
+    },
+    {
+      "mongodb": {
+        "title": "MongoDB Event!",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum in ab quas, voluptas hic dicta error consectetur quibusdam provident rerum minima non nam. Officiis temporibus sapiente assumenda dolorum ex iusto quisquam tempore autem animi voluptatibus, aspernatur dicta? Laudantium itaque voluptatibus, doloremque nemo repellendus similique molestiae ullam sint error id totam placeat, alias quisquam reiciendis accusantium aliquam at ut? Officia doloribus repellendus repudiandae itaque accusamus exercitationem reprehenderit, ipsa illo facere inventore!",
+        "image": "/images/mongodb.png"
+      }
+    }
+  ]
+}
