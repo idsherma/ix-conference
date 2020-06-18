@@ -1,13 +1,11 @@
 import React from 'react';
 import styled from "styled-components";
-import Navbar from "../layouts/Navbar";
-import Footer from "../layouts/Footer";
+
 
 function Home() {
     return (
     <React.Fragment>
         <HomeContainer className="home__hero">
-            <Navbar/>
             <div className="container">
             <h1 className="display-5 text-uppercase py-5 text-center">
                 Welcome to JS 2020 Conference!
@@ -39,7 +37,6 @@ function Home() {
             </div>
             </div>
         </HomeContainer>
-        <Footer/>
     </React.Fragment>
     )
 }
@@ -66,7 +63,7 @@ p {
 }
 
 form {
-    width: 50rem;
+    max-width: 50rem;
     margin: 0 auto;
 }
 

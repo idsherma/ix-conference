@@ -6,7 +6,7 @@ import { NavLink, Link } from "react-router-dom";
 const Navbar = () => {
   return (
     <NavBarComponent>
-      <nav className="navbar navbar-expand-lg navbar-light">
+      <nav className="navbar navbar-expand-lg">
         <Link className="navbar-brand" to="/">
           <img className="logo" src={logo} alt="Logo" />
         </Link>
@@ -24,13 +24,13 @@ const Navbar = () => {
 
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav ml-auto">
-            <li className="nav-item active">
-              <NavLink className="nav-link" to="/">
+            <li className="nav-item">
+              <NavLink className="nav-link" exact to="/">
                 Home 
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link" to="/speakers">
+              <NavLink className="nav-link" to="/speakers-list">
                 Speakers
               </NavLink>
             </li>
@@ -68,9 +68,9 @@ nav {
 }
 
 .nav-link {
-    color: var(--off-white) !important;
+    color: var(--off-white);
     &:hover {
-        background: var(--tomato) !important;
+        background: var(--tomato);
     }
 }
 

@@ -4,32 +4,32 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
     return (
-        <FooterContainer>
+        <FooterContainer className="">
             <div className="container-fluid">
-                <div className="row pt-5">
+                <div className="row pt-5 wrp">
                     <div className="col-sm-3 col-xs-12 d-flex">
                         <ul className="list-inline mx-auto justify-content-center">
-                            <Link>
-                                <li to="/">Lorum ipsum</li>
+                            <Link to="/">
+                                <li>Lorum ipsum</li>
                             </Link>
-                            <Link>
-                                <li to="/">Lorum ipsum</li>
+                            <Link to="/">
+                                <li>Lorum ipsum</li>
                             </Link>
-                            <Link>
-                                <li to="/">Lorum ipsum</li>
+                            <Link to="/">
+                                <li>Lorum ipsum</li>
                             </Link>
                         </ul>
                     </div>
                     <div className="col-sm-3 col-xs-12 d-flex">
                         <ul className="list-inline mx-auto justify-content-center">
-                            <Link>
-                                <li to="/">Lorum ipsum</li>
+                            <Link to="/">
+                                <li>Lorum ipsum</li>
                             </Link>
-                            <Link>
-                                <li to="/">Lorum ipsum</li>
+                            <Link to="/">
+                                <li>Lorum ipsum</li>
                             </Link>
-                            <Link>
-                                <li to="/">Lorum ipsum</li>
+                            <Link to="/">
+                                <li>Lorum ipsum</li>
                             </Link>
                         </ul>
                     </div>

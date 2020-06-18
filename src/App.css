@@ -6,15 +6,16 @@
   --tomato: #e44;
   --orange: #f80;
   --dark-tomato: #c24;
-  --dark-blue: #024;
+  --dark-blue: #002;
   --dark-purple: #313;
   --off-black: #012;
   --dark-grey: #333;
   --off-white: whitesmoke; 
 }
 
-html {
+html, body {
   height: 100%;
+  position: relative;
 }
 
 img {
@@ -25,9 +26,7 @@ img {
 
 body {
   margin: 0;
-  padding: 0;
-  height: 100%;
-  overflow-x: hidden;
+    overflow-x: hidden;
   box-sizing: border-box;
   font-family: 'Open Sans', sans-serif;
 }
