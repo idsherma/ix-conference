@@ -14,7 +14,7 @@ const SPEAKERS = [
     {
       id: 0,
       spkImg: avatar1,
-      name: "Peter Gregory",
+      name: "Kaeti King",
       occupation: "TEAM LEAD in the best company of the world",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque velit, blandit et efficitur id, iaculis eget tortor. Donec a nisi blandit, egestas leo nec, aliquet tellus. Nulla bibendum nunc lacus, a condimentum magna lacinia ac. Vivamus lacus ligula, pulvinar eget mi at, accumsan tincidunt ligula. ",
@@ -22,14 +22,14 @@ const SPEAKERS = [
     {
       id: 1,
       spkImg: avatar2,
-      name: "Masa Kulakevich",
+      name: "Marc Oliver",
       occupation: "SENIOR DEVELOPER in Abra Codabra company",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque velit, blandit et efficitur id, iaculis eget tortor. Donec a nisi blandit, egestas leo nec, aliquet tellus. Nulla bibendum nunc lacus, a condimentum magna lacinia ac. Vivamus lacus ligula, pulvinar eget mi at, accumsan tincidunt ligula. In eleifend pulvinar sapien in molestie. Nullam euismod scelerisque nisl, et facilisis lorem interdum porta. ",
     },
     {
       id: 2,
-      name: "Mark Florence",
+      name: "Jamila Stevens",
       spkImg: avatar3,
       occupation: "FREELANCER AND JS CONF SPEAKER",
       description:
@@ -38,7 +38,7 @@ const SPEAKERS = [
     {
       id: 3,
       spkImg: avatar4,
-      name: "Elvis Presley",
+      name: "Lars Grovensky",
       occupation: "FREELANCER MERN FULL STACK DEVELOPER",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque velit, blandit et efficitur id, iaculis eget tortor. Donec a nisi blandit, egestas leo nec, aliquet tellus. Nulla bibendum nunc lacus, a condimentum magna lacinia ac.",
@@ -100,7 +100,7 @@ const InfoContainer = styled.div`
   }
 
   p {
-    color: var(--orange);
+    color: var(--off-white);
   }
 
   .btn {

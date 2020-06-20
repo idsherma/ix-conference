@@ -31,7 +31,7 @@ const AboutContainer = styled.div`
 
   p {
     color: var(--off-white);
-    max-width: 950px;
+    width: 90%;
     padding-top: 10px;
     padding-bottom: 10px;
     margin: 0 auto;

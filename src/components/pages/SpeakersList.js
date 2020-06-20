@@ -17,9 +17,9 @@ const SpeakersList = () => {
           <div className="card col-md-6 p-2">
             <img src={avatar1} alt="" className="card-img-top mx-auto" />
             <div className="card-body">
-              <h3 className="card-title text-center pb-2">Name TK</h3>
+              <h3 className="card-title text-center pb-2">Kaeti King</h3>
               <h5>
-                Subject: <b>Node JS</b>
+                Subject: <b>Node.js</b>
               </h5>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -36,9 +36,9 @@ const SpeakersList = () => {
           <div className="card col-md-6 p-2">
             <img src={avatar2} alt="" className="card-img-top mx-auto" />
             <div className="card-body">
-              <h3 className="card-title text-center pb-2">Name TK</h3>
+              <h3 className="card-title text-center pb-2">Marc Oliver</h3>
               <h5>
-                Subject: <b>MONGO DB</b>
+                Subject: <b>MongoDB</b>
               </h5>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -55,9 +55,9 @@ const SpeakersList = () => {
           <div className="card col-md-6 p-2">
             <img src={avatar3} alt="" className="card-img-top mx-auto" />
             <div className="card-body">
-              <h3 className="card-title text-center pb-2">Name TK</h3>
+              <h3 className="card-title text-center pb-2">Jamila Stevens</h3>
               <h5>
-                Subject: <b>EXPRESS.JS</b>
+                Subject: <b>React.js</b>
               </h5>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -74,9 +74,9 @@ const SpeakersList = () => {
           <div className="card col-md-6 p-2">
             <img src={avatar4} alt="" className="card-img-top mx-auto" />
             <div className="card-body">
-              <h3 className="card-title text-center pb-2">Name TK</h3>
+              <h3 className="card-title text-center pb-2">Lars Grovensky</h3>
               <h5>
-                Subject: <b>EXPRESS.JS</b>
+                Subject: <b>Express.js</b>
               </h5>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
